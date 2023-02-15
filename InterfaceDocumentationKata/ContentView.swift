@@ -8,14 +8,12 @@
 import SwiftUI
 
 struct ContentView: View {
+    @State private var docHeros = DocumentationHero.docHeros
+    
+    @State private var heroShowing: DocumentationHero?
+    
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundColor(.accentColor)
-            Text("Hello, world!")
-        }
-        .padding()
+        Text("List of Documentation Heros")
     }
 }
 

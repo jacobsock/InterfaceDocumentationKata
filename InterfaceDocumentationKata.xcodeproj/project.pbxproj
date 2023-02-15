@@ -11,6 +11,8 @@
 		5D67C874299D63C3001ACD94 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D67C873299D63C3001ACD94 /* ContentView.swift */; };
 		5D67C876299D63C3001ACD94 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5D67C875299D63C3001ACD94 /* Assets.xcassets */; };
 		5D67C879299D63C3001ACD94 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5D67C878299D63C3001ACD94 /* Preview Assets.xcassets */; };
+		5D67C880299D644F001ACD94 /* DocumentationHero.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D67C87F299D644F001ACD94 /* DocumentationHero.swift */; };
+		5D67C884299D7344001ACD94 /* HeroDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D67C883299D7344001ACD94 /* HeroDetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		5D67C873299D63C3001ACD94 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5D67C875299D63C3001ACD94 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5D67C878299D63C3001ACD94 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5D67C87F299D644F001ACD94 /* DocumentationHero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumentationHero.swift; sourceTree = "<group>"; };
+		5D67C883299D7344001ACD94 /* HeroDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroDetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				5D67C871299D63C3001ACD94 /* InterfaceDocumentationKataApp.swift */,
 				5D67C873299D63C3001ACD94 /* ContentView.swift */,
+				5D67C883299D7344001ACD94 /* HeroDetailView.swift */,
+				5D67C87F299D644F001ACD94 /* DocumentationHero.swift */,
 				5D67C875299D63C3001ACD94 /* Assets.xcassets */,
 				5D67C877299D63C3001ACD94 /* Preview Content */,
 			);
@@ -139,6 +145,8 @@
 			files = (
 				5D67C874299D63C3001ACD94 /* ContentView.swift in Sources */,
 				5D67C872299D63C3001ACD94 /* InterfaceDocumentationKataApp.swift in Sources */,
+				5D67C880299D644F001ACD94 /* DocumentationHero.swift in Sources */,
+				5D67C884299D7344001ACD94 /* HeroDetailView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
