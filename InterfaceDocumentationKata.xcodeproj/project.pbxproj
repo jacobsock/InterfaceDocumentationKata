@@ -23,6 +23,7 @@
 		5D67C878299D63C3001ACD94 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		5D67C87F299D644F001ACD94 /* DocumentationHero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumentationHero.swift; sourceTree = "<group>"; };
 		5D67C883299D7344001ACD94 /* HeroDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroDetailView.swift; sourceTree = "<group>"; };
+		5D67C885299D8A61001ACD94 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				5D67C871299D63C3001ACD94 /* InterfaceDocumentationKataApp.swift */,
+				5D67C885299D8A61001ACD94 /* README.md */,
 				5D67C873299D63C3001ACD94 /* ContentView.swift */,
 				5D67C883299D7344001ACD94 /* HeroDetailView.swift */,
 				5D67C87F299D644F001ACD94 /* DocumentationHero.swift */,
