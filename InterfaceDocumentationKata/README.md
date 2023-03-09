@@ -5,4 +5,4 @@
 * Recreate the Hi-Fis shown in SwiftUI.
 * This project has the file structure set up for you.
 
-**However, you can only use the Apple Developer Documentation within Xcode (Help menu). No Googling!**
+**However, you can only use the Apple Developer Documentation within Xcode (Help menu, or Command-Shift-0, or Option-click). No Googling!**
