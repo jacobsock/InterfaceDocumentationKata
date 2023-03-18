@@ -3,6 +3,7 @@
 //  InterfaceDocumentationKata
 //
 //  Created by Zoe Cutler on 2/15/23.
+//  Edited by Jacob Sock 3/17/23.
 //
 
 import SwiftUI
@@ -14,8 +15,10 @@ struct HeroDetailView: View {
     var hero: DocumentationHero
     
     var body: some View {
-        ScrollView {
-            Text("Hero detail.")
+        List {
+            Image(hero.imageName).resizable().clipShape(Circle()).scaledToFit()
+            Text(hero.name).font(.largeTitle).fontWeight(.bold)
+            Text(hero.about)
         }
     }
 }
